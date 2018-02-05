@@ -1,2 +1,2 @@
 # QXWAdViewSpecs
-APP启动广告页面
+QXW的私有库
